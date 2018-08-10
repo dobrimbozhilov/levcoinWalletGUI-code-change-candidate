@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Levcoin
+GenericName=Levcoin wallet
+Name[en]=Levcoin
+Name[ru]=Левкойн
+Name[pl]=Levcoin
+Name[be]=Levcoin
+Name[de]=Levcoin
+Name[es]=Levcoin
+Comment=Levcoin wallet
+Comment[en]=Levcoin wallet
+Comment[ru]=Levcoin wallet
+Comment[pl]=Levcoin wallet
+Comment[be]=Levcoin wallet
+Comment[de]=Levcoin Brieftasche
+Comment[es]=Levcoin Monedero
+Exec=levcoin %U
+Terminal=false
+Type=Application
+Icon=karbowanec
+MimeType=x-scheme-handler/levcoin;
+Categories=Office;Finance;
+Version=1.2.4

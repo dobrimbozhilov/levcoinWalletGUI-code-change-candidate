@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "LevcoinWalletGUI")
+set(CN_CURRENCY_DISPLAY_NAME "Levcoin")
+set(CN_CURRENCY_TICKER "LVC")
+set(CN_VERSION 1.2.4)
